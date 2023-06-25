@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+![preview](./.github/preview.jpg)
+
+[Visite o projeto online](https://igor-appmasters.vercel.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
